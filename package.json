@@ -1,0 +1,23 @@
+{
+  "name": "quiaet",
+  "version": "1.0.0",
+  "description": "Event bus for your Javascript applications",
+  "main": "src/index.js",
+  "author": "RosendoRosenbaum",
+  "license": "MIT",
+  "keywords": [
+    "quia",
+    "bus",
+    "unde",
+    "vero"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JackyPollich/quiaet.git"
+  },
+  "devDependencies": {
+    "es-check": "^5.1.0",
+    "prettier": "^1.19.1",
+    "uglify-js": "^3.4.5"
+  }
+}
